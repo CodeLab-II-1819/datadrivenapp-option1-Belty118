@@ -1,11 +1,6 @@
 #pragma once
 
 #include "ofMain.h"
-using namespace std;
-#include <sstream>
-#include <fstream>
-#include <string>
-#include <math.h>
 
 class ofApp : public ofBaseApp{
 
